@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Machine Learning/Data Science, Technical University of Denmark, Cognitive Systems, 2018
+* M.Sc. in Medicine and Technology, Technical University of Denmark, 2014
+* B.Sc. in Medicine and Technology, Technical University of Denmark, 2011
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Co-founder, Siren IVS, www.siren.care, Copenhagen.
+  * Developing a temperature sensings sock for prevention of diabetic foot ulcers. Worked for 6 months on the project but left to pursue a PhD.
+* Research Assistant, DTU Compute, Kgs. Lyngby.
+  * Working on the project Neuro 24/7, long term ear-EEG monitoring. Smartphone sensor capture and processing, speaker recognition, EEG experiments
+* Co-founder, Cortrium, www.cortrium.com, Copenhagen.
+  * Working on ICA de-noising, feature extraction and classification of two-lead w  
+* Software Developer, Medimatic A/S, Hellerup.
+  * Developed a program for data acquisition, organisation and processing to work with a distal blood pressure measurement device in hospitals.
+  * Demonstration, sales and technical support in most of the major hospitals in Denmark.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Tools
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data
+  * Numpy, Pandas, BColz, Dask, Bokeh
+* Statistics
+  * Stan, Edward, PyMC3
+* Machine Learning
+  * TensorFlow, PyTorch, Scipy, Scikit-learn
 
 Publications
 ======
@@ -53,7 +53,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
