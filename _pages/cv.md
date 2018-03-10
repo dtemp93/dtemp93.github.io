@@ -17,24 +17,15 @@ Education
 
 Experience
 ======
-* Co-founder, Siren IVS, www.siren.care, Copenhagen.
+* __Co-founder__, Siren IVS, www.siren.care, Copenhagen.
   * Developing a temperature sensings sock for prevention of diabetic foot ulcers. Worked for 6 months on the project but left to pursue a PhD.
-* Research Assistant, DTU Compute, Kgs. Lyngby.
+* __Research Assistant__, DTU Compute, Kgs. Lyngby.
   * Working on the project Neuro 24/7, long term ear-EEG monitoring. Smartphone sensor capture and processing, speaker recognition, EEG experiments
-* Co-founder, Cortrium, www.cortrium.com, Copenhagen.
+* __Co-founder__, Cortrium, www.cortrium.com, Copenhagen.
   * Working on ICA de-noising, feature extraction and classification of two-lead w  
-* Software Developer in LabVIEW, Medimatic A/S, Hellerup.
+* __Software Developer__ in LabVIEW, Medimatic A/S, Hellerup.
   * Developed a program for data acquisition, organisation and processing to work with a distal blood pressure measurement device in hospitals.
   * Demonstration, sales and technical support in most of the major hospitals in Denmark.
-
-Tools
-======
-* Data
-  * Numpy, Pandas, BColz, Dask, Bokeh
-* Statistics
-  * Stan, Edward, PyMC3
-* Machine Learning
-  * TensorFlow, PyTorch, Scipy, Scikit-learn
 
 Publications
 ======
@@ -47,7 +38,16 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Tools
+======
+* Data
+  * Numpy, Pandas, BColz, Dask, Bokeh
+* Statistics
+  * Stan, Edward, PyMC3
+* Machine Learning
+  * TensorFlow, PyTorch, Scipy, Scikit-learn
+
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
