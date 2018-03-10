@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+Focus has during the masters, and especially in the PhD, been on dealing with and modelling large, noisy data. I have been gathering data pervasively from study participants using smartphones, predicting activity and domain with neural networks, and modelling causal intervention effects with Bayesian models in probabilistic programming languages such as Stan which enables flexibility and exact inference through sampling, and Edward which enables inference which millions of samples using stochastic variational inference. 
 
 Education
 ======
