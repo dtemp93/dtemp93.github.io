@@ -23,7 +23,7 @@ Experience
   * Working on the project Neuro 24/7, long term ear-EEG monitoring. Smartphone sensor capture and processing, speaker recognition, EEG experiments
 * Co-founder, Cortrium, www.cortrium.com, Copenhagen.
   * Working on ICA de-noising, feature extraction and classification of two-lead w  
-* Software Developer, Medimatic A/S, Hellerup.
+* Software Developer in LabVIEW, Medimatic A/S, Hellerup.
   * Developed a program for data acquisition, organisation and processing to work with a distal blood pressure measurement device in hospitals.
   * Demonstration, sales and technical support in most of the major hospitals in Denmark.
 
