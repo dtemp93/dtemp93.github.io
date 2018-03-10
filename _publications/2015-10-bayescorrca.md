@@ -2,7 +2,7 @@
 title: "Multiview Bayesian correlated component analysis"
 collection: publications
 permalink: /publications/2015-10-bayescorrca
-venue: "Scientific Reports"
+venue: "Neural Computation"
 excerpt: 'Multiview Bayesian correlated component analysis'
 date: 2015-10-01
 paperurl: https://arxiv.org/pdf/1802.02343.pdf
