@@ -5,7 +5,7 @@ permalink: /publications/2017-03-classroom
 venue: "Scientific Reports"
 excerpt: 'Multi-person synchronized EEG study'
 date: 2017-03-07
-paperurl: http://papers.nips.cc/paper/6951-a-disentangled-recognition-and-nonlinear-dynamics-model-for-unsupervised-learning.pdf
+paperurl: https://www.nature.com/articles/srep43916.pdf
 citation: 'Andreas Trier Poulsen, Simon Kamronn, Jacek Dmochowski, Lucas C Parra, Lars Kai Hansen. 2017. EEG in the classroom: Synchronised neural recordings during video presentation. <i>Scientific Reports 7</i>.'
 ---
 
