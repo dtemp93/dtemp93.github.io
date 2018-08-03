@@ -6,35 +6,27 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+Focus has during the masters, and especially in the PhD, been on dealing with and modelling large, noisy data. I have been gathering data pervasively from study participants using smartphones, predicting activity and domain with neural networks, and modelling causal intervention effects with Bayesian models in probabilistic programming languages such as Stan which enables flexibility and exact inference through sampling, and Edward which enables inference with millions of samples using stochastic variational inference. 
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Machine Learning/Data Science, Technical University of Denmark, Cognitive Systems, 2018
+* M.Sc. in Medicine and Technology, Technical University of Denmark, 2014
+* B.Sc. in Medicine and Technology, Technical University of Denmark, 2011
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __Co-founder__, Siren IVS, www.siren.care, Copenhagen, 2015.
+  * Developing a temperature sensings sock for prevention of diabetic foot ulcers. Worked for 6 months on the project but left to pursue a PhD.
+* __Research Assistant__, DTU Compute, Kgs. Lyngby, 2014 - 2015.
+  * Working on the project Neuro 24/7, long term ear-EEG monitoring. Smartphone sensor capture and processing, speaker recognition, EEG experiments
+* __Co-founder__, Cortrium, www.cortrium.com, Copenhagen, 2013 - 2015.
+  * Working on ICA de-noising, feature extraction and classification of two-lead wireless EEG
+* __Software Developer Consultant__ in LabVIEW, Medimatic A/S, Hellerup, 2011 - 2017.
+  * Developed a program for data acquisition, organisation and processing to work with a distal blood pressure measurement device in hospitals.
+  * Demonstration, sales and technical support in most of the major hospitals in Denmark.
 
 Publications
 ======
@@ -47,13 +39,18 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Tools
+======
+* Data
+  * Numpy, Pandas, BColz, Dask, Bokeh
+* Statistics
+  * Stan, Edward, PyMC3
+* Machine Learning
+  * TensorFlow, PyTorch, Scipy, Scikit-learn
+
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
