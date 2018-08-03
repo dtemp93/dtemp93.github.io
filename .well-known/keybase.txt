@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/simonkamronn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kamronn.com
+  * I am simonkamronn (https://keybase.io/simonkamronn) on keybase.
+  * I have a public key with fingerprint D6D0 5641 6F9E DA2E 3208  E024 9AF4 DDE1 1E9F C228
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012042bfc8cdda55b1b292893add9307cc11e1eb0cd1dcfc6f3dd8943c8930488e610a",
+      "fingerprint": "d6d056416f9eda2e3208e0249af4dde11e9fc228",
+      "host": "keybase.io",
+      "key_id": "9af4dde11e9fc228",
+      "kid": "0101c90d58435c45036fe72073d1bc17aaa68d06667553abcc10eb2f146670f228310a",
+      "uid": "20dffa85d98dd224a39bf935155df619",
+      "username": "simonkamronn"
+    },
+    "service": {
+      "hostname": "kamronn.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1533312663,
+  "expire_in": 157680000,
+  "prev": "25ef0cdaf6f4e587c1a7a501e9f93365a3d35a170fa716591324fb48f4b256b0",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNxAnicbZJ7UBVVHMe5EZIQajoC8RpbtYwhZnfPnn1cgkBTIHyNWSNCXnb3nOUu
+j7uXey8g0gU0hwljDEcUZYpqhvQOaoED1gzKSyYqukMjowg+QJ3JB6lBZDLYY5fw
+v/afnT3n8/2e7/e3pzfI1yfAVD917UbUZz2rTP3d9YU+GaisrpSQNFRCmEuJXDz7
+wnkIO12WXBURZoKkaJKhJUXmZYRECCVKogWaF4CIkABITpYpClNYImVEIVmRWQUg
+xAsMkHWGZHgesxQpEjGEotqyscPuUG0u3RaxiIQsQ7GKgJFIY0CTPCZpRhAVBiGs
+ewqKTNO8LrRqTkOhh5NEJ45VNX1N/7DMxvsf/mlukpIFEkGeAVBmIAlYBXM0yQFE
+STLFiaLI8ohkWZaDEIiS3oPEEq1QjL5CKroV+C934awdTSJFEXmIBB4hmmZEIEiK
+ACAFIVJYSjBAJ3bYxHys0041X7PlivkOzWYj3DGEvlOkytgYrtFmjpoDYmUtX5fb
+HZpLk7U8fcPqctnNhs5VYjfAYixZ5iwskmpD+iR1QRF2OFXNRpgpnZRdquFJQQAA
+RbMsiCHwTrvqwBbVICDH8qT+GMfgIqMPxIr+y0SFVRgMeU6mRE6EpDFGAQAWigAB
+KFL6JESOYqFAAZpRJIZXGImGrEQSRqkCm6Z7c3pOMXu2dbZNdBU6MOHu6c581scU
+4DPP7xnjivkEzF/09OK1sQv/SRnzHHthsizo+tT5pDcGt2o3Ive+tAnebPpluHn7
+xMDNXaHd/WFB67v3348+WJbZGtVTzHRlDbWEjee1TSye9DXVmc0bdnZUfT2TYFrg
+rQj8A9zP9A+4MlI47ZzXseXR/Cflx3pTssrJa6ClaV37waUnJxpHE46vjM3cXLvj
+ffp01MAKtdO68khgc/oOT93ue32N9Y1diY2loZ7OoLjmuDWVH55Zwu4j4tetbvbb
+lOZJv3BuW8nomqra3uXO+MPfjQUriX+dooMWwmWm9lXb3N5PLSebEpKDL+Z4l6a9
+GuG9+p6/+e6JS1kdIz+K1uSw9MfhU5uPlCfngqQWcoyxTg9Rnl8fu4lh/76K3QO3
+fzpU+7Fgeb0z1l7d2vpFiDdk2S3rg4hTOYPwtR+0C96ZtIatvvEzNf1C/p2evdVn
+zr3zSibZFVHT1vfN6PjYg5d/3vOcdoBLncnYH5jI/eke9hz2S7141GWvfPey1H72
+TnPnyK57lPb9dsva36uivhKVDYeyI96MDXeHPYz+xHrJ/HYhU79x4slI0onbIatD
+M6YaI98ajPHfW6dwzcHRjx5ykTnnVTS0ILxy0d3jBVkF4dNHl3x566PcuLGEyz2h
+L+77vK0mimHafBuuFHsWu2o62/6uuP7t87/VdU1WJy5vOntg/YqUhrqpPVqfn8Mb
+PD6yJfW0Syiq3Xh17Qf/Am3zxEQ=
+=DNOA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simonkamronn
+
+==================================================================
+
