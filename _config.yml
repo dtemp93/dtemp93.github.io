@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Simon Kamronn"
+title                    : "Dwight Temple"
 title_separator          : "-"
-name                     : &name "Simon Kamronn"
+name                     : &name "Dwight Temple"
 description              : &description "Collection of stuff"
-url                      : https://simonkamronn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dtemp93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "simonkamronn/simonkamronn.github.io"
+repository               : "dtemp93/dtemp93.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simon Kamronn"
+  name             : "Dwight Temple"
   avatar           : "profile.jpg"
   bio              : "PhD Student, Machine Learning, Data Science"
-  location         : "Copenhagen, Denmark"
+  location         : "Huntsville, AL"
   employer         :
   googlescholar    : 
-  email            : "simon@kamronn.com"
+  email            : "dltemple93@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "simonkamronn"
+  github           : "dtemp93"
   google_plus      :
-  keybase          : "simonkamronn"
-  instagram        :
+  keybase          : "dtemp93"
+  instagram        : "dtemp93"
   lastfm           :
-  linkedin         : "simonkamronn"
+  linkedin         : "dtemp93"
   orcid            : "http://orcid.org/0000-0002-2520-6510"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "simonkamronn"
+  twitter          :
   vine             :
   weibo            :
   xing             :
