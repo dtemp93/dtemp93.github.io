@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a PhD student working with experimental data, applied machine learning, and research. Monitoring obese people in a randomized trial with Android smartphones, the project investigates the efficacy of physical activity interventions to determine the best strategy for maintaining an active lifestyle. Complicated and large amount of data has been the inspiration for the latest contribution in a time-series model combining Deep Learning and Bayesian statistics.
+I'm a self-motivated and passionate algorithm engineer for ExoAnalytic Solutions. I apply, develop, and deploy cutting-edge deep learning techniques to arduous real-world problems in space and defense. Primarily, I focus on fusion of first-principle knowledge alongside the robust generalization of neural networks and uncertainty modeling.
