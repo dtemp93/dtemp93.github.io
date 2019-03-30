@@ -14,7 +14,7 @@ description              : &description "Collection of stuff"
 url                      : https://dtemp93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dtemp93/dtemp93.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Dwight Temple"
   avatar           : "profile.jpg"
-  bio              : "PhD Student, Machine Learning, Data Science"
+  bio              : "Deep-learning + Physics + Uncertainty Modeling"
   location         : "Huntsville, AL"
-  employer         :
+  employer         : "ExoAnalytic Solutions"
   googlescholar    : 
   email            : "dltemple93@gmail.com"
   uri              :
@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "dtemp93"
   foursquare       :
   github           : "dtemp93"
   google_plus      :
@@ -97,7 +97,7 @@ author:
   instagram        : "dtemp93"
   lastfm           :
   linkedin         : "dtemp93"
-  orcid            : "http://orcid.org/0000-0002-2520-6510"
+  orcid            : # "http://orcid.org/0000-0002-2520-6510"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Copenhagen # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Central Standard Time # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
