@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/NEURAL
 venue: "AMOS"
-date: 09-15-2017
+date: 2017-09-15
 location: "Maui, Hawaii"
 ---
 
