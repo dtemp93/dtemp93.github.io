@@ -11,9 +11,9 @@ title                    : "Dwight Temple"
 title_separator          : "-"
 name                     : &name "Dwight Temple"
 description              : &description "Collection of stuff"
-url                      : https://dtemp93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dtemple.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dtemp93/dtemp93.github.io"
+repository               : "dtemp93/dtemple.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
